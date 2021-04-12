@@ -1,4 +1,4 @@
-# NoSQL Challenge: Social Network Api
+# NoSQL Challenge: Social Network API
 
 ## Description
 
@@ -24,7 +24,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Demonstration
 
-[Link to Demo]()
+[Link to Demo Part 1](https://drive.google.com/file/d/1y5dR6dyEOObfZWqV2Lo8tKjN4nX3ES27/view)  
+[Link to Demo Part 2](https://drive.google.com/file/d/1GFcnckq1e5z4b8UDeRgXqkvd4-ja7Enl/view)
 
 
 ## Contact
